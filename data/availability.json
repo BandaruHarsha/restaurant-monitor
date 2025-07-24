@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Domino's Pizza – Banjara Hills",
+    "url": "https://www.swiggy.com/city/hyderabad/dominos-pizza-masab-tank-banjara-hills-rest24622",
+    "actualAvailability": "available",
+    "expectedHours": "N/A",
+    "timestamp": "2025-07-24T20:46:15.810Z"
+  },
+  {
+    "name": "Domino's Pizza – Gachibowli",
+    "url": "https://www.swiggy.com/city/hyderabad/dominos-pizza-cyber-city-gachibowli-rest79490",
+    "actualAvailability": "available",
+    "expectedHours": "N/A",
+    "timestamp": "2025-07-24T20:46:15.992Z"
+  },
+  {
+    "name": "Domino's Pizza – Kukatpally",
+    "url": "https://www.swiggy.com/city/hyderabad/dominos-pizza-alluri-trade-center-kukatpally-rest24619",
+    "actualAvailability": "available",
+    "expectedHours": "N/A",
+    "timestamp": "2025-07-24T20:46:16.205Z"
+  },
+  {
+    "name": "Domino's Pizza – Madhapur",
+    "url": "https://www.swiggy.com/city/hyderabad/dominos-pizza-saroor-nagar-l-b-nagar-rest24629",
+    "actualAvailability": "available",
+    "expectedHours": "N/A",
+    "timestamp": "2025-07-24T20:46:16.332Z"
+  },
+  {
+    "name": "Domino's Pizza – Hitech City",
+    "url": "https://www.swiggy.com/city/hyderabad/dominos-pizza-hitech-city-hitec-city-rest24611",
+    "actualAvailability": "available",
+    "expectedHours": "N/A",
+    "timestamp": "2025-07-24T20:46:16.591Z"
+  }
+]
