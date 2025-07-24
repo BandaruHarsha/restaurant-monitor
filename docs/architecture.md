@@ -59,18 +59,6 @@ This system monitors Domino's restaurant listings on Swiggy, compares real-time 
 
 ---
 
-## Cost Estimate (for 10K Restaurants)
-
-| Component             | Monthly Cost (Est.) |
-|----------------------|---------------------|
-| Cloud functions       | $100–$200 (scrapers)|
-| Database (Firestore)  | $25–$50             |
-| Notification infra    | $10–$30             |
-| Frontend hosting (Vercel) | Free–$20      |
-| **Total**             | **~$200–$300/month**|
-
----
-
 ## Fit of Current Code with Architecture
 
 - Scraper is modular, cron-ready
