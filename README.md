@@ -1,16 +1,16 @@
-# 🍽️ Restaurant Availability Monitor
+# Restaurant Availability Monitor
 
 A full-stack monitoring tool built to track and flag discrepancies between **expected** and **actual availability** of restaurant listings (Domino’s) on **Swiggy**.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [https://restaurant-monitor-z3bd.vercel.app](https://restaurant-monitor-z3bd.vercel.app)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS
 - **Scraper**: Node.js with Puppeteer
@@ -19,7 +19,7 @@ A full-stack monitoring tool built to track and flag discrepancies between **exp
 
 ---
 
-## ✨ Features
+## Features
 
 - Scrapes real-time availability status of multiple Domino’s restaurants on Swiggy.
 - Compares actual availability with expected business hours.
@@ -28,7 +28,7 @@ A full-stack monitoring tool built to track and flag discrepancies between **exp
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 restaurant-monitor/
 ├── frontend/ # Next.js frontend dashboard
@@ -44,9 +44,9 @@ restaurant-monitor/
 
 ---
 
-## 🖥️ Running the App Locally
+## Running the App Locally
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Node.js 18+ and npm installed
 - Git installed
